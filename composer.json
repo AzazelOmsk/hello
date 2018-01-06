@@ -1,0 +1,17 @@
+{
+    "name": "camlost/dota2",
+    "description": "asdfasdf",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "tier.azazel@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^4.7",
+        "laravel/framework": "^5.2"
+
+    }
+}
